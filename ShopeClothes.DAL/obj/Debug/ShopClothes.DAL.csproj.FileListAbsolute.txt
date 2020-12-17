@@ -1,0 +1,14 @@
+C:\Проекты\AspNetShop\ShopeClothes.DAL\bin\Debug\ShopeClothes.DAL.dll.config
+C:\Проекты\AspNetShop\ShopeClothes.DAL\bin\Debug\ShopeClothes.DAL.dll
+C:\Проекты\AspNetShop\ShopeClothes.DAL\bin\Debug\ShopeClothes.DAL.pdb
+C:\Проекты\AspNetShop\ShopeClothes.DAL\bin\Debug\EntityFramework.dll
+C:\Проекты\AspNetShop\ShopeClothes.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Проекты\AspNetShop\ShopeClothes.DAL\bin\Debug\EntityFramework.xml
+C:\Проекты\AspNetShop\ShopeClothes.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Проекты\AspNetShop\ShopeClothes.DAL\obj\Debug\ShopClothes.DAL.csprojAssemblyReference.cache
+C:\Проекты\AspNetShop\ShopeClothes.DAL\obj\Debug\ShopClothes.DAL.csproj.CoreCompileInputs.cache
+C:\Проекты\AspNetShop\ShopeClothes.DAL\obj\Debug\ShopClothes.DAL.csproj.CopyComplete
+C:\Проекты\AspNetShop\ShopeClothes.DAL\obj\Debug\ShopeClothes.DAL.dll
+C:\Проекты\AspNetShop\ShopeClothes.DAL\obj\Debug\ShopeClothes.DAL.pdb
+C:\Проекты\AspNetShop\ShopeClothes.DAL\obj\Debug\ShopeClothes.DAL.Migrations.CreateDB.resources
+C:\Проекты\AspNetShop\ShopeClothes.DAL\obj\Debug\ShopClothes.DAL.csproj.GenerateResource.cache
